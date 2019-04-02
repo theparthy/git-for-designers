@@ -1,1 +1,1 @@
-# Welcome to git-for-designers
+# Welcome to GIT for designers
