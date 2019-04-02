@@ -1,4 +1,4 @@
-# Impressum 
+# IMPRESSUM 
 
 The previous version. You don’t have it anymore, do you?
 
